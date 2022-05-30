@@ -1,6 +1,6 @@
 var hostarray = new Array();
 
-hostarray["pureradondomess"] = "https://bafybeih6pakyxkvfhufycriccumvjfcg5jhfy2zif7f656y4fyfuwgncyu.ipfs.nftstorage.link/";
+hostarray["purerandomness"] = "https://bafybeih6pakyxkvfhufycriccumvjfcg5jhfy2zif7f656y4fyfuwgncyu.ipfs.nftstorage.link/";
 function redirect()
 {
     //Obtain the host name in lowercase format
